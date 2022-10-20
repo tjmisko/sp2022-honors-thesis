@@ -1,0 +1,12 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+WHOINCOMEREGION,HI_AMR,High-income countries of the Americas,,,
+WHOINCOMEREGION,HI_EMR,High-income countries of the Eastern Mediterranean Region,,,
+WHOINCOMEREGION,HI_EUR,High-income countries of the European Region,,,
+WHOINCOMEREGION,HI_INCOME,High-income countries for all regions,,,
+WHOINCOMEREGION,HI_WPR,High-income countries of the Western Pacific Region,,,
+WHOINCOMEREGION,LMI_AFR,Low- and middle-income countries of the African Region,,,
+WHOINCOMEREGION,LMI_AMR,Low- and middle-income countries of the Americas,,,
+WHOINCOMEREGION,LMI_EMR,Low- and middle-income countries of the Eastern Mediterranean Region,,,
+WHOINCOMEREGION,LMI_EUR,Low- and middle-income countries of the European Region,,,
+WHOINCOMEREGION,LMI_SEAR,Low- and middle-income countries of the South-East Asia Region,,,
+WHOINCOMEREGION,LMI_WPR,Low- and middle-income countries of the Western Pacific Region,,,

@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Ambient Air Quality: A Pressing Concern}{}% 1
+\BOOKMARK [1][-]{section.2}{The Importance of Policy}{}% 2
+\BOOKMARK [1][-]{section.3}{A Review of the Literature on Sustainability Policy Evaluation}{}% 3
+\BOOKMARK [1][-]{section.4}{Theory of Air Quality Policy: A Systems Approach}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Setting Up the Structural Equation}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{The Interaction of Policy with the Structural Equation}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Modeling the Source Behavior and Generation Intensity}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Modularity of the Structural Equation}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Policy Data by Country}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Keywords as Selection Criteria and Policy Descriptors}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Determining which Policies to Include in the Analysis}{section.5}% 11
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Road Transport Policies}{subsection.5.2}% 12
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Power Generation Data}{subsection.5.2}% 13
+\BOOKMARK [1][-]{section.6}{Air Pollution Data}{}% 14
+\BOOKMARK [2][-]{subsection.6.1}{Selection of Data}{section.6}% 15
+\BOOKMARK [2][-]{subsection.6.2}{Determining which Source Behaviors to Model}{section.6}% 16
+\BOOKMARK [1][-]{section.7}{Source Behavior Data and Control Variables}{}% 17
+\BOOKMARK [2][-]{subsection.7.1}{Road Transport Data}{section.7}% 18
+\BOOKMARK [2][-]{subsection.7.2}{Power Generation Data}{section.7}% 19
+\BOOKMARK [2][-]{subsection.7.3}{Control Variable Data}{section.7}% 20
+\BOOKMARK [1][-]{section.8}{Statistical Models}{}% 21
+\BOOKMARK [1][-]{section.9}{Discussion of Results}{}% 22
+\BOOKMARK [2][-]{subsection.9.1}{Road Transport}{section.9}% 23
+\BOOKMARK [3][-]{subsubsection.9.1.1}{Source Behavior \(Regression Table 8\)}{subsection.9.1}% 24
+\BOOKMARK [3][-]{subsubsection.9.1.2}{Generating Intensity \(Regression Tables 9-14\)}{subsection.9.1}% 25
+\BOOKMARK [2][-]{subsection.9.2}{Power Generation}{section.9}% 26
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Source Behavior}{subsection.9.2}% 27
+\BOOKMARK [3][-]{subsubsection.9.2.2}{Generating Intensities}{subsection.9.2}% 28
+\BOOKMARK [2][-]{subsection.9.3}{The Importance of Restrictive Selection Criteria}{section.9}% 29
+\BOOKMARK [2][-]{subsection.9.4}{Power Generation Omitted Variables Bias}{section.9}% 30
+\BOOKMARK [2][-]{subsection.9.5}{Geography}{section.9}% 31

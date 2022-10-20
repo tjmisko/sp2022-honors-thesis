@@ -1,0 +1,4 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+RESIDENCEAREATYPE,RUR,Rural,,,
+RESIDENCEAREATYPE,TOTL,Total,,,
+RESIDENCEAREATYPE,URB,Urban,,,
